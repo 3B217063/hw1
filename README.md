@@ -1,3 +1,4 @@
+```
 假設Downloads資料夾裡有以下檔案:
 Scripting課程大綱.pdf
 期中報告草稿.docx
@@ -23,3 +24,4 @@ final_project.zip
     │   └── lofi_music.mp3
     └── Others/
         └── final_project.zip
+```
